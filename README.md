@@ -8,7 +8,7 @@ Bắt đầu tiếp xúc với ngôn ngữ lập trình từ năm 18 tuổi, kh�
 
 * 🌍  I'm based in Bac Ninh, Viet Nam
 * ✉️  You can contact me at [cuonggold2408@gmail.com](mailto:cuonggold2408@gmail.com)
-* 🧠  I'm learning Nestjs
+* 🧠  I'm learning Nestjs and building a Social Networking Web
 
 ### Skills
 
